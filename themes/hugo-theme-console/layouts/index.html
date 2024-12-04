@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+    <h2>Kunal Kongkan Kashyap</h2>
+    <h3>Developer</h3>
+    <strong><i>Passionate</i></strong> about coding and an undergraduate in computer science from Baihata Chariali, Assam. I am dedicated to
+    continuously improving my skills and delivering exceptional web development projects. <a href="about/">(more)</a>
+</p>
+<br />
+
+<h1>Latest posts</h1>
+
+<div class="posts-list">
+    {{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    <div class="post">
+        <p>
+        <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+        {{ .Summary }}
+        </p>
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
+
+{{ end }}

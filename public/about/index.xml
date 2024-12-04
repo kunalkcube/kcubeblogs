@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>KCube Blogs - About</title>
+    <subtitle>Insights and updates from Kunal Kongkan Kashyap</subtitle>
+    <link href="https://blogs.kunalkcube.pro/about/" rel="self" />
+    <link href="https://blogs.kunalkcube.pro/" />
+    <updated>2024-12-02T12:00:00Z</updated>
+    <id>https://blogs.kunalkcube.pro/about/</id>
+    <author>
+        <name>Kunal Kongkan Kashyap</name>
+        <email>kunal@example.com</email>
+    </author>
+    <entry>
+        <title>About Me</title>
+        <link href="https://blogs.kunalkcube.pro/about/" />
+        <id>https://blogs.kunalkcube.pro/about/</id>
+        <updated>2024-12-02T12:00:00Z</updated>
+        <summary type="html">
+            <![CDATA[
+            Passionate about coding and an undergraduate in computer science from Baihata Chariali, Assam. I am dedicated to continuously improving my skills and delivering exceptional web development projects. Experienced in creating websites and chatbots, I focus on mastering new technologies to develop innovative solutions. I enjoy playing carrom and chess, which enhance my strategic thinking skills.
+            ]]>
+        </summary>
+        <content type="html">
+            <![CDATA[
+            <h1>About Me</h1>
+            <p><strong>Kunal Kongkan Kashyap</strong></p>
+            <p>Developer and computer science enthusiast from Baihata Chariali, Assam. I am focused on honing my skills and delivering high-quality web development projects.</p>
+            <p>Besides technical pursuits, I enjoy carrom and chess, which provide a refreshing break and hone my strategic thinking abilities.</p>
+            <hr />
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Gauhati University:</strong> Integrated MSc in Computer Science</li>
+                <li><strong>Gateway Senior Secondary School:</strong> Class 12, Science</li>
+                <li><strong>Adarsha Jatiya Vidyalaya, Bihdia:</strong> Class 10</li>
+            </ul>
+            <hr />
+            <h2>Main Skills</h2>
+            <ul>
+                <li><strong>Languages:</strong> HTML, CSS, JavaScript, PHP, SQL</li>
+                <li><strong>Frameworks:</strong> Express.js, React.js</li>
+                <li><strong>Runtime:</strong> Node.js</li>
+                <li><strong>CSS Frameworks:</strong> Tailwind CSS, Bootstrap</li>
+                <li><strong>Databases:</strong> MongoDB, MySQL</li>
+                <li><strong>Version Control:</strong> Git, GitHub</li>
+                <li><strong>DevOps:</strong> Docker</li>
+            </ul>
+            <p>✨ <em>“The best way to predict the future is to create it.”</em></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on KCube Blogs</title>
+    <link>https://blogs.kunalkcube.pro/tags/server/</link>
+    <description>Recent content in Server on KCube Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blogs.kunalkcube.pro/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Host PostgreSQL on a server</title>
+      <link>https://blogs.kunalkcube.pro/posts/host-postgresql-on-a-server/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/host-postgresql-on-a-server/</guid>
+      <description>&lt;h2 id=&#34;-how-to-host-postgresql-on-a-dedicated-server&#34;&gt;🌐 &lt;strong&gt;How to Host PostgreSQL on a Dedicated Server&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Learn how to set up and configure &lt;strong&gt;PostgreSQL&lt;/strong&gt; on a dedicated Ubuntu server, and connect it to a &lt;strong&gt;Node.js application&lt;/strong&gt;. This guide walks you through each step, from creating a server to installing PostgreSQL, setting up user access, and connecting with Node.js.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

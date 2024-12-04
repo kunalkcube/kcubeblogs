@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KCube Blogs</title>
+    <link>https://blogs.kunalkcube.pro/</link>
+    <description>Recent content on KCube Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blogs.kunalkcube.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OOP in CPP</title>
+      <link>https://blogs.kunalkcube.pro/posts/oop-in-cpp/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/oop-in-cpp/</guid>
+      <description>&lt;h2 id=&#34;unit-1-introduction-to-object-oriented-programming-oop&#34;&gt;&lt;strong&gt;Unit 1: Introduction to Object-Oriented Programming (OOP)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;basic-concepts-of-object-oriented-programming&#34;&gt;&lt;strong&gt;Basic Concepts of Object-Oriented Programming&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around &lt;strong&gt;objects&lt;/strong&gt; rather than functions and logic. Objects are instances of classes that encapsulate data and behavior.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Host PostgreSQL on a server</title>
+      <link>https://blogs.kunalkcube.pro/posts/host-postgresql-on-a-server/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/host-postgresql-on-a-server/</guid>
+      <description>&lt;h2 id=&#34;-how-to-host-postgresql-on-a-dedicated-server&#34;&gt;🌐 &lt;strong&gt;How to Host PostgreSQL on a Dedicated Server&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Learn how to set up and configure &lt;strong&gt;PostgreSQL&lt;/strong&gt; on a dedicated Ubuntu server, and connect it to a &lt;strong&gt;Node.js application&lt;/strong&gt;. This guide walks you through each step, from creating a server to installing PostgreSQL, setting up user access, and connecting with Node.js.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learn CPP</title>
+      <link>https://blogs.kunalkcube.pro/posts/learn-cpp/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/learn-cpp/</guid>
+      <description>&lt;h2 id=&#34;-learning-c-from-beginner-to-advanced&#34;&gt;🌟 &lt;strong&gt;Learning C++ from Beginner to Advanced&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to this journey of mastering &lt;strong&gt;C++&lt;/strong&gt;! 🚀 Whether you&amp;rsquo;re just starting or looking to level up, this guide has you covered. Let&amp;rsquo;s dive into the world of &lt;strong&gt;C++ programming&lt;/strong&gt;, step by step.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learn Python</title>
+      <link>https://blogs.kunalkcube.pro/posts/learn-python/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/learn-python/</guid>
+      <description>&lt;h2 id=&#34;-learn-python-from-beginner-to-advanced&#34;&gt;🐍 &lt;strong&gt;Learn Python: From Beginner to Advanced&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt; is one of the most versatile and beginner-friendly programming languages. Whether you&amp;rsquo;re stepping into programming for the first time or advancing your skills, this guide provides a structured roadmap with examples to help you master Python.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blogs.kunalkcube.pro/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/about/</guid>
+      <description>&lt;h1 id=&#34;-about-me&#34;&gt;🧑‍💻 About Me&lt;/h1&gt;&#xA;&lt;h2 id=&#34;kunal-kongkan-kashyap&#34;&gt;&lt;strong&gt;Kunal Kongkan Kashyap&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;developer&#34;&gt;Developer&lt;/h3&gt;&#xA;&lt;p&gt;Passionate about coding and an undergraduate in computer science from Baihata Chariali, Assam. I am dedicated to continuously improving my skills and delivering exceptional web development projects.&lt;/p&gt;&#xA;&lt;p&gt;I have gained experience in creating websites and chatbots, and I am currently focused on mastering new technologies to develop innovative solutions. Committed to continuous improvement and delivering exceptional web development projects.&lt;/p&gt;&#xA;&lt;p&gt;Apart from my technical pursuits, I find enjoyment in playing &lt;strong&gt;carrom&lt;/strong&gt; and &lt;strong&gt;chess&lt;/strong&gt;. These games provide a welcome break from coding and allow me to exercise my strategic thinking skills.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

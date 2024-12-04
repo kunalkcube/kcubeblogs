@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oop on KCube Blogs</title>
+    <link>https://blogs.kunalkcube.pro/tags/oop/</link>
+    <description>Recent content in Oop on KCube Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blogs.kunalkcube.pro/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OOP in CPP</title>
+      <link>https://blogs.kunalkcube.pro/posts/oop-in-cpp/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blogs.kunalkcube.pro/posts/oop-in-cpp/</guid>
+      <description>&lt;h2 id=&#34;unit-1-introduction-to-object-oriented-programming-oop&#34;&gt;&lt;strong&gt;Unit 1: Introduction to Object-Oriented Programming (OOP)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;basic-concepts-of-object-oriented-programming&#34;&gt;&lt;strong&gt;Basic Concepts of Object-Oriented Programming&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around &lt;strong&gt;objects&lt;/strong&gt; rather than functions and logic. Objects are instances of classes that encapsulate data and behavior.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
